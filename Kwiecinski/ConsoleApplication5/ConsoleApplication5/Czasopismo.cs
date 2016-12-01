@@ -10,6 +10,27 @@ namespace ConsoleApplication5
     {
         private int numer;
 
+        public Czasopismo()
+        {
+        }
+
+        //konstruktor parametryczny 
+        public Czasopismo(int numer, string tytuł, int id, string wydawnictwo, int rokWydania)
+            : base(tytuł, id, wydawnictwo, rokWydania)
+        {
+            this.numer = numer;
+        }
+
+        //nie internal, ale override
+        public override void WypiszInfo()
+        {
+            Console.WriteLine("Tytuł: {0}", tytul);
+            Console.WriteLine("Numer: {0}", numer);
+            Console.WriteLine("Nr katalogowy: {0}", id);
+            Console.WriteLine("Wydawnictwo: {0}", wydawnictwo);
+            Console.WriteLine("Rok wydaniwa: {0}", rokWydania);
+        }
+
 
        
     }

@@ -1,1 +1,7 @@
 C:\Users\local\Desktop\Koloszewski\cwiczenie9\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Piotrek\Desktop\Cw7\14\kwiecinski-master\Kwiecinski\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

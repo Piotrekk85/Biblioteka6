@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Czasopismo.cs" />
-    <Compile Include="Interface1.cs" />
+    <Compile Include="IZarzadzanieKatalogiem.cs" />
     <Compile Include="Katalog.cs" />
     <Compile Include="Osoba.cs" />
     <Compile Include="Autor.cs" />

@@ -6,10 +6,20 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication5
 {
-    private class Osoba
+    class Osoba  //czemu tu klasa ma być prywatna?
     {
-        protected int imie;
-        protected int nazwisko;
+        protected string imie; //imie i nazwisko przechowywane jako int?
+        protected string nazwisko;
+
+        public Osoba()
+        {
+        }
+
+        public Osoba(string imie, string nazwisko)
+        {
+            this.imie = imie;
+            this.nazwisko = nazwisko;
+        }
 
     }
 }
